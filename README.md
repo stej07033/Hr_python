@@ -17,6 +17,7 @@
 ---
 
 ## 📌 Project Overview
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/6311883d-ddf3-48ff-9318-110bd7325606" />
 
 Employee attrition is an important challenge for organizations because employee turnover can affect productivity, recruitment costs, and workforce stability.
 
